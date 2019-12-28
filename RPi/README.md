@@ -1,6 +1,7 @@
 # Info-Display for Raspotify
 
-It will be frustrating to follow this guide. Sorry! *Note: it is using the HDMI-output*
+It will be frustrating to follow this guide. Sorry!<br>
+*Note: it is using the HDMI-output of the Pi*
 
 ## Installation
 * Install pip3 ```sudo apt install python3-pip```
