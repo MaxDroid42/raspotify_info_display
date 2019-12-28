@@ -2,7 +2,7 @@
 
 It will be frustrating to follow this guide. Sorry!<br>
 *Note: it is using the HDMI-output of the Pi*<br>
-**Also note: it is rather slow (tested on RPi Model B 1st gen.) and insecure!**
+**Also note: it is rather slow (tested on RPi Model B 1st gen. which is overclocked to 900 Mhz and has 128 MB of vram) and insecure!**
 
 ## Installation
 * Install pip3 ```sudo apt install python3-pip```
