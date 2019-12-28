@@ -1,6 +1,6 @@
 # Info-Display for Raspotify
 
-It will be frustrating to follow this guide. Sorry!
+It will be frustrating to follow this guide. Sorry! *Note: it is using the HDMI-output*
 
 ## Installation
 * Install pip3 ```sudo apt install python3-pip```
