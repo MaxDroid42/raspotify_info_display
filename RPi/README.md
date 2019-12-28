@@ -1,6 +1,6 @@
 # Info-Display for Raspotify
 
-It will be frustrating following this guide. Sorry!
+It will be frustrating to follow this guide. Sorry!
 
 ## Installation
 * Install pip3 ```sudo apt install python3-pip```
