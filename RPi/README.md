@@ -1,7 +1,8 @@
 # Info-Display for Raspotify
 
 It will be frustrating to follow this guide. Sorry!<br>
-*Note: it is using the HDMI-output of the Pi*
+*Note: it is using the HDMI-output of the Pi*<br>
+**Also note: it is rather slow (tested on RPi Model B 1st gen.) and insecure!**
 
 ## Installation
 * Install pip3 ```sudo apt install python3-pip```
